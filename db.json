@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "user_id": "ganesh",
+      "user_name": "ganeshkumar",
+      "email": "ganesh@gmail.com",
+      "password": "ganesh12",
+      "id": "L9Q_CrzidQk"
+    },
+    {
+      "user_id": "venu",
+      "user_name": "venukumar",
+      "email": "venu1@gmail.com",
+      "password": "venu123",
+      "id": "fWA2LbFJWAE"
+    },
+    {
+      "user_id": "pavan",
+      "user_name": "pavan12",
+      "email": "pavan@gmail.com",
+      "password": "pavan123",
+      "id": "9GUbrHKdBoQ"
+    },
+    {
+      "user_id": "manoj",
+      "user_name": "manoj123",
+      "email": "manoj@gmail.com",
+      "password": "manoj12",
+      "id": "4I4Mzn0lAKQ"
+    },
+    {
+      "user_id": "gowtham12",
+      "user_name": "gowtham",
+      "email": "gowtham1@gmail.com",
+      "password": "gowtham11",
+      "id": "T_AJ9wvrEXE"
+    }
+  ],
+  "appointments": [
+    {
+      "title": "vecation",
+      "description": "starting from tomorrow",
+      "date": "2026-09-03",
+      "user_id": "pavan",
+      "id": "lDZpxx2-O9o"
+    },
+    {
+      "title": "feaver",
+      "description": "discharged in 5 days",
+      "date": "2026-09-11",
+      "user_id": "ganesh",
+      "id": "oBHRT0NGSAE"
+    },
+    {
+      "title": "operator",
+      "description": "handles all machines",
+      "date": "2026-09-04",
+      "user_id": "manoj",
+      "id": "Sdcq_74UR3w"
+    },
+    {
+      "title": "travelling",
+      "description": "starting at 11pm",
+      "date": "2026-09-05",
+      "user_id": "pavan",
+      "id": "z-C4ICL6-4U"
+    },
+    {
+      "title": "festival",
+      "description": "festival starts at 11 am morning",
+      "date": "2026-09-11",
+      "user_id": "manoj",
+      "id": "OgkjYHpleAk"
+    },
+    {
+      "title": "venukumar",
+      "description": "rally  for venu kumar starting at 11pm",
+      "date": "2026-09-11",
+      "user_id": "venu",
+      "id": "1A7mzrFRbbA"
+    },
+    {
+      "title": "birthdayparty",
+      "description": "starting at 11 pm sharp",
+      "date": "2026-09-16",
+      "user_id": "venu",
+      "id": "Cnc_eF-g_ig"
+    },
+    {
+      "title": "goa trip",
+      "description": "trip starts at 11pm",
+      "date": "2026-10-14",
+      "user_id": "gowtham12",
+      "id": "qOC2xv6CqZU"
+    }
+  ]
+}
